@@ -33,7 +33,8 @@ This repo is aimed at implementing the workflow using C++ features, including th
 2. support of monitoring and reporting.
 
 Note:
-So far the implementation focuses on tasks, and other components related to workflow such as participants are not supported. I will add their support later.  
+-   So far the implementation focuses on tasks, and other components related to workflow such as participants are not supported. I will add their support later.  
+-   The implementation takes the workflow in the warehouse as an example where tasks include picking, labeling, wrapping, shipping, moving containers and so on.
 
 Build and run:
 build:
